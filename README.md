@@ -1,9 +1,5 @@
  # ChargeGrid Intelligence
 
- Recarga comercial inteligente para o varejo de bairro, usando o ecossistema GoodWe (placa solar, bateria e carregador) com uma camada de software por cima.
-
- Trabalho do grupo da turma 1CCPW para o EV Challenge 2026 (FIAP + GoodWe), Sprint 1 da matéria SERS: Apresentação do Projeto Sustentável.
-
  ## Vídeo
 
  https://youtu.be/6hMryOPBleU?si=kavgCcR3Zx9EGDqj
