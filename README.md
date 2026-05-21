@@ -1,9 +1,5 @@
  # ChargeGrid Intelligence
 
- ## Vídeo
-
- https://youtu.be/6hMryOPBleU?si=kavgCcR3Zx9EGDqj
-
   ## Sobre o desafio
 
  A GoodWe é uma empresa de energia solar que também fabrica carregadores de carro elétrico. O carregador da linha HCA G2 hoje é um produto residencial, pensado para a garagem de uma casa: uma pessoa, um carro, uma conta de luz só. O desafio que ela trouxe para a FIAP foi outro: como transformar esse mesmo equipamento em um negócio para o comércio, ou seja, um lugar que
@@ -73,7 +69,7 @@
  - A bateria reduz a pressão na rede nos horários de pico, quando a matriz elétrica costuma ser mais poluente.
  - Tornar a recarga comercial viável economicamente acelera a troca de carros a combustão por elétricos, o que reduz emissões de CO2 nas cidades.
 
- ### Modelo de negócio
+ ## Modelo de negócio
 
  A ideia é um revenue share, ou seja, divisão da receita das recargas. A GoodWe instala o equipamento sem custo para o lojista, e os dois dividem o valor das recargas, com referência de 70% para o lojista e 30% para a GoodWe.
 
